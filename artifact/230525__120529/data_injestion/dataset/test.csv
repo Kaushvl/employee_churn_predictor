@@ -1,0 +1,295 @@
+,Age,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager,Attrition
+852,29,1,1401,Research & Development,6,1,Medical,1192,2,0,54,3,1,Laboratory Technician,4,2,3131,26342,1,0,13,3,1,1,10,5,3,10,8,0,8,0
+423,30,0,1398,Sales,22,4,Other,567,3,0,69,3,3,Sales Executive,1,2,8412,2890,0,0,11,3,3,0,10,3,3,9,8,7,8,0
+750,44,1,1448,Sales,28,3,Medical,1039,4,0,53,4,4,Sales Executive,4,2,13320,11737,3,1,18,3,3,1,23,2,3,12,11,11,11,0
+1245,24,2,897,Human Resources,10,3,Medical,1746,1,1,59,3,1,Human Resources,4,2,2145,2097,0,0,14,3,4,1,3,2,3,2,2,2,1,0
+1177,50,1,813,Research & Development,17,5,Life Sciences,1656,4,0,50,2,3,Research Director,1,1,13269,21981,5,0,15,3,3,3,19,3,3,14,11,1,11,0
+74,36,1,132,Research & Development,6,3,Life Sciences,97,2,0,55,4,1,Laboratory Technician,4,2,3038,22002,3,0,12,3,2,0,5,3,3,1,0,0,0,0
+536,60,1,1179,Sales,16,4,Marketing,732,1,1,84,3,2,Sales Executive,1,1,5405,11924,8,0,14,3,4,0,10,1,3,2,2,2,2,0
+1081,35,1,1029,Research & Development,16,3,Life Sciences,1529,4,0,91,2,3,Healthcare Representative,2,1,8606,21195,1,0,19,3,4,0,11,3,1,11,8,3,3,0
+539,50,1,316,Sales,8,4,Marketing,738,4,1,54,3,1,Sales Representative,2,2,3875,9983,7,0,15,3,4,1,4,2,3,2,2,2,2,0
+131,50,2,809,Sales,12,3,Marketing,174,3,0,77,3,3,Sales Executive,4,1,9208,6645,4,0,11,3,4,0,16,3,3,2,2,2,1,0
+93,46,2,638,Research & Development,1,3,Medical,124,3,1,40,2,3,Healthcare Representative,1,2,10673,3142,2,1,13,3,3,1,21,5,2,10,9,9,5,0
+609,43,1,589,Research & Development,14,2,Life Sciences,843,2,1,94,3,4,Research Director,1,2,17159,5200,6,0,24,4,3,1,22,3,3,4,1,1,0,0
+89,46,1,669,Sales,9,2,Medical,118,3,1,64,2,3,Sales Executive,4,1,9619,13596,1,0,16,3,4,0,9,3,3,9,8,4,7,1
+520,48,1,817,Sales,2,1,Marketing,712,2,1,56,4,2,Sales Executive,2,2,8120,18597,3,0,12,3,4,0,12,3,3,2,2,2,2,0
+594,29,1,1252,Research & Development,23,2,Life Sciences,824,3,1,81,4,1,Research Scientist,3,2,2700,23779,1,0,24,4,3,1,10,3,3,10,7,0,7,0
+1263,42,1,855,Research & Development,12,3,Medical,1768,2,1,57,3,1,Laboratory Technician,2,1,2766,8952,8,0,22,4,2,3,7,6,2,5,3,0,4,0
+1056,28,2,1496,Sales,1,3,Technical Degree,1486,1,1,92,3,1,Sales Representative,3,2,2909,15747,3,0,15,3,4,1,5,3,4,3,2,1,2,1
+16,32,1,334,Research & Development,5,2,Life Sciences,21,1,1,80,4,1,Research Scientist,2,1,3298,15053,0,1,12,3,4,2,7,5,2,6,2,0,5,0
+1098,40,0,1142,Research & Development,8,2,Life Sciences,1552,4,1,72,3,2,Healthcare Representative,4,1,4069,8841,3,1,18,3,3,0,8,2,3,2,2,2,2,0
+6,59,1,1324,Research & Development,3,3,Medical,10,3,0,81,4,1,Laboratory Technician,1,2,2670,9964,4,1,20,4,1,3,12,3,2,1,0,0,0,0
+1105,33,1,1242,Sales,8,4,Life Sciences,1560,1,1,46,3,2,Sales Executive,1,2,6392,10589,2,0,13,3,4,1,8,6,1,2,2,2,2,0
+230,52,1,1323,Research & Development,2,3,Life Sciences,316,3,0,89,2,1,Laboratory Technician,4,1,3212,3300,7,0,15,3,2,0,6,3,2,2,2,2,2,0
+930,51,2,968,Research & Development,6,2,Medical,1297,2,0,40,2,1,Laboratory Technician,3,1,2838,4257,0,0,14,3,2,0,8,6,2,7,0,7,7,0
+10,35,1,809,Research & Development,16,3,Medical,14,1,1,84,4,1,Laboratory Technician,2,2,2426,16479,0,0,13,3,3,1,6,5,3,5,4,0,3,0
+442,36,0,635,Sales,10,4,Medical,592,2,1,32,3,3,Sales Executive,4,1,9980,15318,1,0,14,3,4,0,10,3,2,10,3,9,7,0
+77,45,1,193,Research & Development,6,4,Other,101,4,1,52,3,3,Research Director,1,2,13245,15067,4,1,14,3,2,0,17,3,4,0,0,0,0,0
+1339,22,1,391,Research & Development,7,1,Life Sciences,1878,4,1,75,3,1,Research Scientist,2,1,2472,26092,1,1,23,4,1,0,1,2,3,1,0,0,0,1
+684,40,1,658,Sales,10,4,Marketing,954,1,1,67,2,3,Sales Executive,2,1,9705,20652,2,0,12,3,2,1,11,2,2,1,0,0,0,0
+960,41,2,1018,Sales,1,3,Marketing,1349,3,0,66,3,2,Sales Executive,1,1,4103,4297,0,0,17,3,4,1,10,2,3,9,3,1,7,0
+1243,45,1,176,Human Resources,4,3,Life Sciences,1744,3,0,56,1,3,Human Resources,3,2,9756,6595,4,0,21,4,3,2,9,2,4,5,0,0,3,0
+204,38,1,1180,Research & Development,29,1,Medical,282,2,1,70,3,2,Healthcare Representative,1,2,6673,11354,7,1,19,3,2,0,17,2,3,1,0,0,0,1
+1214,44,1,921,Research & Development,2,3,Life Sciences,1703,3,0,96,4,3,Healthcare Representative,4,2,7879,14810,1,1,19,3,2,1,9,2,3,8,7,6,7,0
+452,45,1,561,Sales,2,3,Other,606,4,1,61,3,2,Sales Executive,2,2,4805,16177,0,0,19,3,2,1,9,3,4,8,7,3,7,0
+1405,31,0,697,Research & Development,10,3,Medical,1979,3,0,40,3,3,Research Director,3,2,11031,26862,4,0,20,4,3,1,13,2,4,11,7,4,8,0
+1399,43,1,574,Research & Development,11,3,Life Sciences,1971,1,1,30,3,3,Healthcare Representative,3,2,7510,16873,1,0,17,3,2,1,10,1,3,10,9,0,9,0
+865,30,1,1329,Sales,29,4,Life Sciences,1211,3,1,61,3,2,Sales Executive,1,1,4115,13192,8,0,19,3,3,3,8,3,3,4,3,0,3,0
+903,29,1,1329,Research & Development,7,3,Life Sciences,1260,3,1,82,3,2,Healthcare Representative,4,1,6623,4204,1,1,11,3,2,2,6,2,3,6,0,1,0,0
+144,32,2,689,Sales,9,2,Medical,195,4,1,35,1,2,Sales Executive,4,1,4668,22812,0,0,17,3,4,3,9,2,4,8,7,0,7,0
+313,33,2,553,Research & Development,5,4,Life Sciences,428,4,0,74,3,3,Manager,2,2,11878,23364,6,0,11,3,2,2,12,2,3,10,6,8,8,0
+874,30,1,853,Research & Development,7,4,Life Sciences,1224,3,1,49,3,2,Laboratory Technician,3,1,3491,11309,1,0,13,3,1,3,10,4,2,10,7,8,9,0
+944,28,0,1476,Research & Development,1,3,Life Sciences,1315,3,0,55,1,2,Laboratory Technician,4,2,6674,16392,0,0,11,3,1,3,10,6,3,9,8,7,5,0
+672,42,1,462,Sales,14,2,Medical,936,3,0,68,2,2,Sales Executive,3,1,6244,7824,7,0,17,3,1,0,10,6,3,5,4,0,3,0
+822,34,2,1003,Research & Development,2,2,Life Sciences,1140,4,1,95,3,2,Manufacturing Director,3,1,4033,15834,2,0,11,3,4,0,5,3,2,3,2,0,2,0
+468,52,1,956,Research & Development,6,2,Technical Degree,630,4,1,78,3,2,Research Scientist,1,1,5577,22087,3,1,12,3,2,2,18,3,3,10,9,6,9,0
+1135,46,1,563,Sales,1,4,Life Sciences,1602,4,1,56,4,4,Manager,1,1,17567,3156,1,0,15,3,2,0,27,5,1,26,0,0,12,0
+371,29,1,1283,Research & Development,23,3,Life Sciences,495,4,1,54,3,1,Research Scientist,4,1,2201,18168,9,0,16,3,4,0,6,4,3,3,2,1,2,0
+1258,29,1,590,Research & Development,4,3,Technical Degree,1762,4,0,91,2,1,Research Scientist,1,1,2109,10007,1,0,13,3,3,1,1,2,3,1,0,0,0,0
+959,40,1,523,Research & Development,2,3,Life Sciences,1346,3,1,98,3,2,Research Scientist,4,1,4661,22455,1,0,13,3,3,0,9,4,3,9,8,8,8,0
+269,36,1,1403,Research & Development,6,3,Life Sciences,373,4,1,47,3,1,Laboratory Technician,4,2,3210,20251,0,0,11,3,3,1,16,4,3,15,13,10,11,0
+316,49,1,1091,Research & Development,1,2,Technical Degree,431,3,0,90,2,4,Healthcare Representative,3,1,13964,17810,7,1,12,3,4,0,25,2,3,7,1,0,7,0
+76,35,1,776,Sales,1,4,Marketing,100,3,1,32,2,2,Sales Executive,1,1,4312,23016,0,0,14,3,2,0,16,2,3,15,13,2,8,0
+679,31,0,1188,Sales,20,2,Marketing,947,4,0,45,3,2,Sales Executive,3,2,6932,24406,1,0,13,3,4,1,9,2,2,9,8,0,0,0
+52,44,1,1488,Sales,1,5,Marketing,68,2,0,75,3,2,Sales Executive,1,1,5454,4009,5,1,21,4,3,1,9,2,2,4,3,1,3,0
+100,37,1,807,Human Resources,6,4,Human Resources,133,3,1,63,3,1,Human Resources,1,1,2073,23648,4,1,22,4,4,0,7,3,3,3,2,0,2,1
+477,50,2,1246,Human Resources,3,3,Medical,644,1,1,99,3,5,Manager,2,2,18200,7999,1,0,11,3,3,1,32,2,3,32,5,10,7,0
+947,52,1,1030,Sales,5,3,Life Sciences,1319,2,1,64,3,3,Sales Executive,2,1,8446,21534,9,1,19,3,3,0,10,2,2,8,7,7,7,1
+649,53,1,102,Research & Development,23,4,Life Sciences,901,4,0,72,3,4,Research Director,4,1,14275,20206,6,0,18,3,3,0,33,0,3,12,9,3,8,0
+1226,32,2,585,Research & Development,10,3,Life Sciences,1720,1,1,56,3,1,Research Scientist,3,2,3433,17360,6,0,13,3,1,1,10,3,2,5,2,1,3,0
+273,37,1,228,Sales,6,4,Medical,378,3,1,98,3,2,Sales Executive,4,2,6502,22825,4,0,14,3,2,1,7,5,4,5,4,0,1,0
+277,38,1,322,Sales,7,2,Medical,382,1,0,44,4,2,Sales Executive,1,1,5605,19191,1,1,24,4,3,1,8,3,3,8,0,7,7,0
+1102,36,1,1157,Sales,2,4,Life Sciences,1556,3,1,70,3,1,Sales Representative,4,1,2644,17001,3,1,21,4,4,0,7,3,2,3,2,1,2,0
+1153,18,2,544,Sales,3,2,Medical,1624,2,0,70,3,1,Sales Representative,4,1,1569,18420,1,1,12,3,3,0,0,2,4,0,0,0,0,1
+174,45,1,1268,Sales,4,2,Life Sciences,240,3,0,30,3,2,Sales Executive,1,1,5006,6319,4,1,11,3,1,1,9,3,4,5,4,0,3,0
+911,25,2,599,Sales,24,1,Life Sciences,1273,3,1,73,1,1,Sales Representative,4,1,1118,8040,1,1,14,3,4,0,1,4,3,1,0,1,0,1
+779,51,1,1323,Research & Development,4,4,Life Sciences,1081,1,1,34,3,1,Research Scientist,3,2,2461,10332,9,1,12,3,3,3,18,2,4,10,0,2,7,1
+1290,34,2,234,Research & Development,9,4,Life Sciences,1807,4,1,93,3,2,Laboratory Technician,1,2,5346,6208,4,0,17,3,3,1,11,3,2,7,1,0,7,1
+867,50,2,1421,Research & Development,2,3,Medical,1215,4,0,30,3,4,Manager,1,2,17856,9490,2,0,22,4,3,1,32,3,3,2,2,2,2,0
+480,30,2,448,Sales,12,4,Life Sciences,648,2,1,74,2,1,Sales Representative,1,2,2033,14470,1,0,18,3,3,1,1,2,4,1,0,0,0,1
+695,37,1,625,Sales,1,4,Life Sciences,970,1,1,46,2,3,Sales Executive,3,2,10609,14922,5,0,11,3,3,0,17,2,1,14,1,11,7,1
+1241,32,1,371,Sales,19,3,Life Sciences,1739,4,1,80,1,3,Sales Executive,3,2,9610,3840,3,0,13,3,3,1,10,2,1,4,3,0,2,0
+769,26,2,921,Research & Development,1,1,Medical,1068,1,0,66,2,1,Research Scientist,3,1,2007,25265,1,0,13,3,3,2,5,5,3,5,3,1,3,0
+398,37,0,1063,Research & Development,25,5,Medical,529,2,0,72,3,2,Research Scientist,3,2,4449,23866,3,1,15,3,1,2,15,2,3,13,11,10,7,0
+739,27,1,1055,Research & Development,2,4,Life Sciences,1027,1,0,47,3,2,Manufacturing Director,4,2,4227,4658,0,0,18,3,2,1,4,2,3,3,2,2,2,0
+1092,45,1,950,Research & Development,28,3,Technical Degree,1546,4,1,97,3,1,Research Scientist,4,2,2132,4585,4,0,20,4,4,1,8,3,3,5,4,0,3,0
+1281,35,1,303,Sales,27,3,Life Sciences,1797,3,1,84,3,2,Sales Executive,4,1,5813,13492,1,1,18,3,4,0,10,2,3,10,7,7,7,1
+685,26,2,1283,Sales,1,3,Medical,956,3,1,52,2,2,Sales Executive,1,1,4294,11148,1,0,12,3,2,0,7,2,3,7,7,0,7,0
+1301,58,0,350,Sales,2,3,Medical,1824,2,1,52,3,4,Manager,2,1,16291,22577,4,0,22,4,4,1,37,0,2,16,9,14,14,0
+807,38,1,770,Sales,10,4,Marketing,1119,3,1,73,2,3,Sales Executive,3,1,8740,5569,0,1,14,3,2,2,9,2,3,8,7,2,7,0
+1274,31,1,196,Sales,29,4,Marketing,1784,1,0,91,2,2,Sales Executive,4,2,5468,13402,1,0,14,3,1,2,13,3,3,12,7,5,7,0
+1037,45,1,1448,Research & Development,29,3,Technical Degree,1465,2,1,55,3,3,Manufacturing Director,4,2,9380,14720,4,1,18,3,4,2,10,4,4,3,1,1,2,0
+43,27,2,994,Sales,8,3,Life Sciences,56,4,1,37,3,3,Sales Executive,3,1,8726,2975,1,0,15,3,4,0,9,0,3,9,8,1,7,0
+980,31,2,703,Sales,2,3,Life Sciences,1379,3,0,90,2,1,Sales Representative,4,1,2785,11882,7,0,14,3,3,0,3,3,4,1,0,0,0,1
+530,27,1,608,Research & Development,1,2,Life Sciences,725,3,0,68,3,3,Manufacturing Director,1,2,7412,6009,1,0,11,3,4,0,9,3,3,9,7,0,7,0
+507,29,1,1176,Sales,3,2,Medical,690,2,0,62,3,2,Sales Executive,3,2,5561,3487,1,0,14,3,1,1,6,5,2,6,0,1,2,0
+114,34,1,1031,Research & Development,6,4,Life Sciences,151,3,0,45,2,2,Research Scientist,2,1,4505,15000,6,0,15,3,3,1,12,3,3,1,0,0,0,0
+891,44,1,1117,Research & Development,2,1,Life Sciences,1246,1,0,72,4,1,Research Scientist,4,2,2011,19982,1,0,13,3,4,1,10,5,3,10,5,7,7,0
+1005,29,1,332,Human Resources,17,3,Other,1419,2,1,51,2,3,Human Resources,1,1,7988,9769,1,0,13,3,1,0,10,3,2,10,9,0,9,0
+224,31,0,979,Research & Development,1,4,Medical,308,3,1,90,1,2,Manufacturing Director,3,2,4345,4381,0,0,12,3,4,1,6,2,3,5,4,1,4,0
+260,32,2,1311,Research & Development,7,3,Life Sciences,359,2,1,100,4,1,Laboratory Technician,2,2,2794,26062,1,0,20,4,3,0,5,3,1,5,1,0,3,0
+756,32,0,1109,Research & Development,29,4,Medical,1046,4,0,69,3,1,Laboratory Technician,3,1,4025,11135,9,0,12,3,2,0,10,2,3,8,7,7,7,0
+1383,36,0,1351,Research & Development,9,4,Life Sciences,1949,1,1,66,4,1,Laboratory Technician,2,2,2810,9238,1,0,22,4,2,0,5,3,3,5,4,0,2,0
+1097,24,1,350,Research & Development,21,2,Technical Degree,1551,3,1,57,2,1,Laboratory Technician,1,1,2296,10036,0,0,14,3,2,3,2,3,3,1,1,0,0,0
+564,45,1,954,Sales,2,2,Technical Degree,783,2,1,46,1,2,Sales Representative,3,1,6632,12388,0,0,13,3,1,0,9,3,3,8,7,3,1,0
+845,40,2,902,Research & Development,26,2,Medical,1180,3,0,92,2,2,Research Scientist,4,2,4422,21203,3,1,13,3,4,1,16,3,1,1,1,0,0,0
+593,36,1,676,Research & Development,1,3,Other,823,3,0,35,3,2,Manufacturing Director,2,2,5228,23361,0,0,15,3,1,1,10,2,3,9,7,0,5,0
+40,35,1,464,Research & Development,4,2,Other,53,3,1,75,3,1,Laboratory Technician,4,1,1951,10910,1,0,12,3,3,1,1,3,3,1,0,0,0,0
+772,56,2,1240,Research & Development,9,3,Medical,1071,1,0,63,3,1,Research Scientist,3,2,2942,12154,2,0,19,3,2,1,18,4,3,5,4,0,3,0
+969,48,1,855,Research & Development,4,3,Life Sciences,1363,4,1,54,3,3,Manufacturing Director,4,1,7898,18706,1,0,11,3,3,0,11,2,3,10,9,0,8,0
+1061,24,0,830,Sales,13,2,Life Sciences,1495,4,0,78,3,1,Sales Representative,2,2,2033,7103,1,0,13,3,3,1,1,2,3,1,0,0,0,0
+214,30,1,1005,Research & Development,3,3,Technical Degree,297,4,0,88,3,1,Research Scientist,1,1,2657,8556,5,1,11,3,3,0,8,5,3,5,2,0,4,1
+151,35,1,662,Sales,1,5,Marketing,204,3,1,94,3,3,Sales Executive,2,2,7295,11439,1,0,13,3,1,2,10,3,3,10,8,0,6,0
+1326,32,1,414,Sales,2,4,Marketing,1862,3,1,82,2,2,Sales Executive,2,1,9907,26186,7,1,12,3,3,0,7,3,2,2,2,2,2,1
+913,45,1,1449,Sales,2,3,Marketing,1277,1,0,94,1,5,Manager,2,1,18824,2493,2,1,16,3,1,0,26,2,3,24,10,1,11,1
+556,53,1,346,Research & Development,6,3,Life Sciences,769,4,1,86,3,2,Laboratory Technician,4,1,2450,10919,2,0,17,3,4,0,19,4,3,2,2,2,2,0
+1200,44,1,528,Human Resources,1,3,Life Sciences,1683,3,0,44,3,1,Human Resources,4,1,3195,4167,4,1,18,3,1,3,8,2,3,2,2,2,2,0
+642,38,1,395,Sales,9,3,Marketing,893,2,1,98,2,1,Sales Representative,2,2,2899,12102,0,0,19,3,4,1,3,3,3,2,2,1,2,0
+113,24,1,1127,Research & Development,18,1,Life Sciences,150,2,1,52,3,1,Laboratory Technician,3,2,2774,13257,0,0,12,3,3,1,6,2,3,5,3,1,2,0
+465,46,2,1034,Research & Development,18,1,Medical,624,1,0,86,3,3,Healthcare Representative,3,2,10527,8984,5,0,11,3,4,0,28,3,2,2,2,1,2,0
+1460,29,1,468,Research & Development,28,4,Medical,2054,4,0,73,2,1,Research Scientist,1,1,3785,8489,1,0,14,3,2,0,5,3,1,5,4,0,4,0
+1161,38,1,397,Research & Development,2,2,Medical,1638,4,0,54,2,3,Manufacturing Director,3,2,7756,14199,3,1,19,3,4,1,10,6,4,5,4,0,2,0
+341,38,1,343,Research & Development,15,2,Life Sciences,461,3,1,92,2,3,Research Director,4,1,11510,15682,0,1,14,3,2,1,12,3,3,11,10,2,9,0
+1414,47,1,1180,Research & Development,25,3,Medical,1993,1,1,84,3,3,Healthcare Representative,3,1,8633,13084,2,0,23,4,2,0,25,3,3,17,14,12,11,0
+1262,43,2,807,Research & Development,17,3,Technical Degree,1767,3,1,38,2,1,Research Scientist,3,2,2437,15587,9,1,16,3,4,1,6,4,3,1,0,0,0,1
+156,51,1,1169,Research & Development,7,4,Medical,211,2,1,34,2,2,Manufacturing Director,3,2,6132,13983,2,0,17,3,3,0,10,2,3,1,0,0,0,0
+54,26,1,1443,Sales,23,3,Marketing,72,3,0,47,2,2,Sales Executive,4,2,4157,21436,7,1,19,3,3,1,5,2,2,2,2,0,0,0
+1404,42,0,335,Research & Development,23,2,Life Sciences,1976,4,1,37,2,2,Research Scientist,3,1,4332,14811,1,0,12,3,4,0,20,2,3,20,9,3,7,0
+1346,45,1,556,Research & Development,25,2,Life Sciences,1888,2,0,93,2,2,Manufacturing Director,4,2,5906,23888,0,0,13,3,4,2,10,2,2,9,8,3,8,0
+1232,35,1,1370,Research & Development,27,4,Life Sciences,1728,4,1,49,3,2,Manufacturing Director,3,2,6883,5151,2,0,16,3,2,1,17,3,3,7,7,0,7,0
+5,32,2,1005,Research & Development,2,2,Life Sciences,8,4,1,79,3,1,Laboratory Technician,4,1,3068,11864,0,0,13,3,3,0,8,2,2,7,7,3,6,0
+402,30,1,1082,Sales,12,3,Technical Degree,533,2,0,83,3,2,Sales Executive,3,1,6577,19558,0,0,11,3,2,0,6,6,3,5,4,4,4,0
+1045,40,1,896,Research & Development,2,3,Medical,1474,3,1,68,3,1,Research Scientist,3,1,2345,8045,2,0,14,3,3,1,8,3,4,3,1,1,2,0
+825,29,1,718,Research & Development,8,1,Medical,1150,2,1,79,2,2,Manufacturing Director,4,2,5056,17689,1,1,15,3,3,1,10,2,2,10,7,1,2,0
+518,38,1,243,Sales,7,4,Marketing,709,4,0,46,2,2,Sales Executive,4,1,4028,7791,0,0,20,4,1,0,8,2,3,7,7,0,5,0
+1194,47,1,1225,Sales,2,4,Life Sciences,1676,2,0,47,4,4,Manager,2,1,15972,21086,6,0,14,3,3,3,29,2,3,3,2,1,2,0
+610,27,1,269,Research & Development,5,1,Technical Degree,844,3,1,42,2,3,Research Director,4,1,12808,8842,1,1,16,3,2,1,9,3,3,9,8,0,8,0
+1358,31,1,1079,Sales,10,2,Medical,1912,3,0,86,3,2,Sales Executive,4,1,6583,20115,2,1,11,3,4,1,8,2,3,5,2,1,4,0
+1093,42,2,288,Research & Development,2,3,Life Sciences,1547,4,1,40,3,3,Healthcare Representative,4,2,10124,18611,2,1,14,3,3,1,24,3,1,20,8,13,9,0
+690,31,1,616,Research & Development,12,3,Medical,961,4,0,41,3,2,Healthcare Representative,4,2,5855,17369,0,1,11,3,3,2,10,2,1,9,7,8,5,0
+1266,41,1,548,Research & Development,9,4,Life Sciences,1772,3,1,94,3,1,Laboratory Technician,1,1,2289,20520,1,0,20,4,2,2,5,2,3,5,3,0,4,0
+1333,46,1,1254,Sales,10,3,Life Sciences,1869,3,0,64,3,3,Sales Executive,2,2,7314,14011,5,0,21,4,3,3,14,2,3,8,7,0,7,1
+526,39,1,408,Research & Development,2,4,Technical Degree,721,4,0,80,2,2,Healthcare Representative,3,1,4553,20978,1,0,11,3,1,0,20,4,3,20,7,11,10,0
+777,21,1,1334,Research & Development,10,3,Life Sciences,1079,3,0,36,2,1,Laboratory Technician,1,1,1416,17258,1,0,13,3,1,0,1,6,2,1,0,1,0,1
+24,34,1,699,Research & Development,6,1,Medical,31,2,1,83,3,1,Research Scientist,1,1,2960,17102,2,0,11,3,3,0,8,2,3,4,2,1,3,1
+295,42,2,555,Sales,26,3,Marketing,404,3,0,77,3,4,Sales Executive,2,2,13525,14864,5,0,14,3,4,1,23,2,4,20,4,4,8,0
+111,34,2,658,Research & Development,7,3,Life Sciences,147,1,1,66,1,2,Laboratory Technician,3,1,6074,22887,1,1,24,4,4,0,9,3,3,9,7,0,6,1
+467,37,0,142,Sales,9,4,Medical,626,1,1,69,3,3,Sales Executive,2,1,8834,24666,1,0,13,3,4,1,9,6,3,9,5,7,7,0
+803,34,0,697,Research & Development,3,4,Life Sciences,1115,3,1,40,2,1,Research Scientist,4,2,2979,22478,3,0,17,3,4,3,6,2,3,0,0,0,0,0
+1394,32,1,1373,Research & Development,5,4,Life Sciences,1966,4,1,56,2,2,Manufacturing Director,4,1,9679,10138,8,0,24,4,2,0,8,1,3,1,0,0,0,0
+745,55,2,135,Research & Development,18,4,Medical,1034,3,1,62,3,2,Healthcare Representative,2,2,6385,12992,3,1,14,3,4,2,17,3,3,8,7,6,7,0
+606,34,2,702,Research & Development,16,4,Life Sciences,838,3,0,100,2,1,Research Scientist,4,1,2553,8306,1,0,16,3,3,0,6,3,3,5,2,1,3,0
+1380,35,1,682,Sales,18,4,Medical,1945,2,1,71,3,2,Sales Executive,1,2,5561,15975,0,0,16,3,4,1,6,2,1,5,3,0,4,0
+910,23,1,373,Research & Development,1,2,Life Sciences,1270,4,1,47,3,1,Research Scientist,3,2,1223,16901,1,0,22,4,4,1,1,2,3,1,0,0,1,0
+1218,41,1,918,Sales,6,3,Marketing,1708,4,1,35,3,3,Sales Executive,3,1,9241,15869,1,0,12,3,2,0,10,3,3,10,8,8,7,0
+370,21,1,156,Sales,12,3,Life Sciences,494,3,0,90,4,1,Sales Representative,2,1,2716,25422,1,0,15,3,4,0,1,0,3,1,0,0,0,1
+1343,29,1,592,Research & Development,7,3,Life Sciences,1883,4,1,59,3,1,Laboratory Technician,1,1,2062,19384,3,0,14,3,2,0,11,2,3,3,2,1,2,0
+1199,36,1,1351,Research & Development,26,4,Life Sciences,1682,1,1,80,3,2,Healthcare Representative,3,2,5347,7419,6,0,14,3,2,2,10,2,2,3,2,0,2,0
+1112,38,1,903,Research & Development,2,3,Medical,1573,3,1,81,3,2,Manufacturing Director,2,2,4855,7653,4,0,11,3,1,2,7,2,3,5,2,1,4,1
+140,32,1,1033,Research & Development,9,3,Medical,190,1,0,41,3,1,Laboratory Technician,1,1,4200,10224,7,0,22,4,1,0,10,2,4,5,4,0,4,1
+227,29,2,1413,Sales,1,1,Medical,312,2,0,42,3,3,Sales Executive,4,2,7918,6599,1,0,14,3,4,1,11,5,3,11,10,4,1,0
+1283,28,1,1181,Research & Development,1,3,Life Sciences,1799,3,1,82,3,1,Research Scientist,4,2,2044,5531,1,0,11,3,3,1,5,6,4,5,3,0,3,0
+595,58,1,286,Research & Development,2,4,Life Sciences,825,4,1,31,3,5,Research Director,2,1,19246,25761,7,1,12,3,4,0,40,2,3,31,15,13,8,1
+1041,28,1,866,Sales,5,3,Medical,1469,4,1,84,3,2,Sales Executive,1,1,8463,23490,0,0,18,3,4,0,6,4,3,5,4,1,3,0
+1408,23,1,571,Research & Development,12,2,Other,1982,4,1,78,3,1,Laboratory Technician,4,1,2647,13672,1,0,13,3,3,0,5,6,4,5,2,1,4,0
+314,39,1,117,Research & Development,10,1,Medical,429,3,1,99,3,4,Manager,1,2,17068,5355,1,1,14,3,4,0,21,3,3,21,9,11,10,0
+206,22,1,1136,Research & Development,5,3,Life Sciences,284,4,1,60,4,1,Research Scientist,2,1,2328,12392,1,1,16,3,1,1,4,2,2,4,2,2,2,0
+345,23,1,1309,Research & Development,26,1,Life Sciences,465,3,1,83,3,1,Research Scientist,4,1,2904,16092,1,0,12,3,3,2,4,2,2,4,2,0,2,0
+225,59,1,142,Research & Development,3,3,Life Sciences,309,3,1,70,2,1,Research Scientist,4,2,2177,8456,3,0,17,3,1,1,7,6,3,1,0,0,0,0
+783,41,1,509,Research & Development,7,2,Technical Degree,1085,2,0,43,4,1,Research Scientist,3,2,3376,18863,1,0,13,3,3,0,10,3,3,10,6,0,8,0
+462,34,1,258,Sales,21,4,Life Sciences,621,4,1,74,4,2,Sales Executive,4,1,5337,19921,1,0,12,3,4,0,10,3,3,10,7,5,7,0
+1059,35,1,660,Sales,7,1,Life Sciences,1492,4,1,76,3,1,Sales Representative,3,2,2404,16192,1,0,13,3,1,1,1,3,3,1,0,0,0,0
+751,50,0,145,Sales,1,3,Life Sciences,1040,4,0,95,3,2,Sales Executive,3,2,6347,24920,0,0,12,3,1,1,19,3,3,18,7,0,13,0
+1420,41,1,642,Research & Development,1,3,Life Sciences,1999,4,1,76,3,1,Research Scientist,4,2,2782,21412,3,0,22,4,1,1,12,3,3,5,3,1,0,0
+709,31,0,335,Research & Development,9,2,Medical,991,3,1,46,2,1,Research Scientist,1,1,2321,10322,0,1,22,4,1,0,4,0,3,3,2,1,2,1
+95,54,1,1217,Research & Development,2,4,Technical Degree,126,1,0,60,3,3,Research Director,3,2,13549,24001,9,0,12,3,1,1,16,5,1,4,3,0,3,0
+211,30,0,829,Research & Development,1,1,Life Sciences,292,3,1,88,2,3,Manufacturing Director,3,1,8474,20925,1,0,22,4,3,0,12,2,3,11,8,5,8,0
+1393,27,1,954,Sales,9,3,Marketing,1965,4,1,44,3,2,Sales Executive,4,1,4105,5099,1,0,14,3,1,0,7,5,3,7,7,0,7,0
+330,43,2,559,Research & Development,10,4,Life Sciences,448,3,0,82,2,2,Laboratory Technician,3,1,5257,6227,1,0,11,3,2,1,9,3,4,9,7,0,0,0
+828,18,0,247,Research & Development,8,1,Medical,1156,3,1,80,3,1,Laboratory Technician,3,1,1904,13556,1,0,12,3,4,0,0,0,3,0,0,0,0,1
+1160,45,1,1329,Research & Development,2,2,Other,1635,4,0,59,2,2,Manufacturing Director,4,1,5770,5388,1,0,19,3,1,2,10,3,3,10,7,3,9,0
+811,38,1,130,Sales,2,2,Marketing,1125,4,1,32,3,3,Sales Executive,2,1,7351,20619,7,0,16,3,3,0,10,2,3,1,0,0,0,0
+1181,49,1,465,Research & Development,6,1,Life Sciences,1661,3,0,41,2,4,Healthcare Representative,3,2,13966,11652,2,1,19,3,2,1,30,3,3,15,11,2,12,0
+331,27,0,210,Sales,1,1,Marketing,449,3,1,73,3,2,Sales Executive,2,2,6349,22107,0,1,13,3,4,1,6,0,3,5,4,1,4,0
+29,46,1,705,Sales,2,4,Marketing,38,2,0,83,3,5,Manager,1,1,18947,22822,3,0,12,3,4,0,22,2,2,2,2,2,1,0
+742,50,1,804,Research & Development,9,3,Life Sciences,1030,1,1,64,3,1,Laboratory Technician,4,2,2380,20165,4,0,18,3,2,0,8,5,3,1,0,0,0,0
+1030,31,1,326,Sales,8,2,Life Sciences,1453,1,1,31,3,3,Sales Executive,4,1,10793,8386,1,0,18,3,1,1,13,5,3,13,7,9,9,0
+764,28,1,1144,Sales,10,1,Medical,1056,4,1,74,3,1,Sales Representative,2,2,1052,23384,1,0,22,4,2,0,1,5,3,1,0,0,0,0
+833,27,1,199,Research & Development,6,3,Life Sciences,1162,4,1,55,2,1,Research Scientist,3,2,2539,7950,1,0,13,3,3,1,4,0,3,4,2,2,2,0
+1306,31,2,1125,Sales,7,4,Marketing,1833,1,0,68,3,3,Sales Executive,1,2,9637,8277,2,0,14,3,4,2,9,3,3,3,2,2,2,0
+1139,32,1,634,Research & Development,5,4,Other,1607,2,0,35,4,1,Research Scientist,4,2,3312,18783,3,0,17,3,4,2,6,3,3,3,2,0,2,0
+653,50,0,881,Research & Development,2,4,Life Sciences,905,1,1,98,3,4,Manager,1,1,17924,4544,1,0,11,3,4,1,31,3,3,31,6,14,7,0
+638,25,1,583,Sales,4,1,Marketing,885,3,1,87,2,2,Sales Executive,1,2,4256,18154,1,0,12,3,1,0,5,1,4,5,2,0,3,0
+14,28,1,103,Research & Development,24,3,Life Sciences,19,3,1,50,2,1,Laboratory Technician,3,1,2028,12947,5,1,14,3,2,0,6,4,3,4,2,0,3,1
+1315,36,1,430,Research & Development,2,4,Other,1847,4,0,73,3,2,Research Scientist,2,2,6962,19573,4,1,22,4,4,1,15,2,3,1,0,0,0,0
+126,58,1,147,Research & Development,23,4,Medical,165,4,0,94,3,3,Healthcare Representative,4,2,10312,3465,1,0,12,3,4,1,40,3,2,40,10,15,6,1
+1417,31,1,1154,Sales,2,2,Life Sciences,1996,1,1,54,3,1,Sales Representative,3,2,3067,6393,0,0,19,3,3,1,3,1,3,2,2,1,2,0
+1427,40,1,543,Research & Development,1,4,Life Sciences,2012,1,1,83,3,1,Laboratory Technician,4,2,2406,4060,8,0,19,3,3,2,8,3,2,1,0,0,0,0
+583,34,1,1111,Sales,8,2,Life Sciences,808,3,0,93,3,2,Sales Executive,1,2,6500,13305,5,0,17,3,2,1,6,1,3,3,2,1,2,0
+517,25,1,810,Sales,8,3,Life Sciences,707,4,1,57,4,2,Sales Executive,2,2,4851,15678,0,0,22,4,3,1,4,4,3,3,2,1,2,0
+1320,42,0,355,Research & Development,10,4,Technical Degree,1854,3,1,38,3,1,Research Scientist,3,2,2936,6161,3,0,22,4,2,2,10,1,2,6,3,3,3,0
+1431,32,1,801,Sales,1,4,Marketing,2016,3,0,48,3,3,Sales Executive,4,2,10422,24032,1,0,19,3,3,2,14,3,3,14,10,5,7,0
+818,31,2,793,Sales,20,3,Life Sciences,1135,3,1,67,4,1,Sales Representative,4,2,2791,21981,0,0,12,3,1,1,3,4,3,2,2,2,2,0
+1278,36,1,1383,Research & Development,10,3,Life Sciences,1790,4,1,90,3,3,Healthcare Representative,1,2,8321,25949,7,1,13,3,4,1,15,1,3,12,8,5,7,0
+461,35,1,195,Sales,1,3,Medical,620,1,0,80,3,2,Sales Executive,3,1,4859,6698,1,0,16,3,4,0,5,3,3,5,4,0,3,0
+1078,44,1,136,Research & Development,28,3,Life Sciences,1523,4,1,32,3,4,Research Director,1,2,16328,22074,3,0,13,3,3,1,24,1,4,20,6,14,17,0
+1024,47,1,359,Research & Development,2,4,Medical,1443,1,0,82,3,4,Research Director,3,2,17169,26703,3,0,19,3,2,2,26,2,4,20,17,5,6,0
+1468,49,2,1023,Sales,2,3,Medical,2065,4,1,63,2,2,Sales Executive,2,2,5390,13243,2,0,14,3,4,0,17,3,2,9,6,0,8,0
+218,45,0,1052,Sales,6,3,Medical,302,4,0,57,2,3,Sales Executive,4,1,8865,16840,6,0,12,3,4,0,23,2,3,19,7,12,8,0
+925,42,1,603,Research & Development,7,4,Medical,1292,2,0,78,4,2,Research Scientist,2,2,2372,5628,6,1,16,3,4,0,18,2,3,1,0,0,0,0
+338,30,1,570,Sales,5,3,Marketing,456,4,0,30,2,2,Sales Executive,3,1,6118,5431,1,0,13,3,3,3,10,2,3,10,9,1,2,0
+481,34,1,254,Research & Development,1,2,Life Sciences,649,2,1,83,2,1,Research Scientist,4,2,3622,22794,1,1,13,3,4,1,6,3,3,6,5,1,3,0
+755,45,1,1234,Sales,11,2,Life Sciences,1045,4,0,90,3,4,Manager,4,2,17650,5404,3,0,13,3,2,1,26,4,4,9,3,1,1,0
+567,34,1,304,Sales,2,3,Other,786,4,1,60,3,2,Sales Executive,4,1,6274,18686,1,0,22,4,3,0,6,5,3,6,5,1,4,0
+64,36,1,1223,Research & Development,8,3,Technical Degree,83,3,0,59,3,3,Healthcare Representative,3,1,10096,8202,1,0,13,3,2,3,17,2,3,17,14,12,8,0
+333,43,1,1001,Research & Development,7,3,Life Sciences,451,3,0,43,3,3,Healthcare Representative,1,2,9985,9262,8,0,16,3,1,1,10,1,2,1,0,0,0,0
+176,33,1,134,Research & Development,2,3,Life Sciences,242,3,1,90,3,1,Research Scientist,4,1,2500,10515,0,0,14,3,1,0,4,2,4,3,1,0,2,0
+1195,49,1,809,Research & Development,1,3,Life Sciences,1677,3,1,36,3,4,Manager,3,1,15379,22384,4,0,14,3,1,0,23,2,3,8,7,0,0,0
+289,28,1,1117,Research & Development,8,2,Life Sciences,395,4,0,66,3,1,Research Scientist,4,1,3310,4488,1,0,21,4,4,0,5,3,3,5,3,0,2,0
+430,35,1,144,Research & Development,22,3,Life Sciences,577,4,1,46,1,1,Laboratory Technician,3,1,4230,19225,0,0,15,3,3,0,6,2,3,5,4,4,3,0
+233,50,1,854,Sales,1,4,Medical,323,4,0,68,3,5,Manager,4,1,19517,24118,3,0,11,3,3,1,32,3,2,7,0,0,6,0
+372,35,1,755,Research & Development,9,4,Life Sciences,496,3,1,97,2,2,Healthcare Representative,2,1,6540,19394,9,0,19,3,3,0,10,5,3,1,1,0,0,0
+765,38,2,1186,Research & Development,3,4,Other,1060,3,1,44,3,1,Research Scientist,3,2,2821,2997,3,0,16,3,1,1,8,2,3,2,2,2,2,0
+42,26,1,1357,Research & Development,25,3,Life Sciences,55,1,1,48,1,1,Laboratory Technician,3,1,2293,10558,1,0,12,3,3,0,1,2,2,1,0,0,1,1
+948,30,1,634,Research & Development,17,4,Medical,1321,2,0,95,3,3,Manager,1,2,11916,25927,1,1,23,4,4,2,9,2,3,9,1,0,8,0
+1456,35,2,1199,Research & Development,18,4,Life Sciences,2049,3,1,80,3,2,Healthcare Representative,3,2,5689,24594,1,1,14,3,4,2,10,2,4,10,2,0,2,0
+1303,47,1,1001,Research & Development,4,3,Life Sciences,1827,3,0,92,2,3,Manufacturing Director,2,1,10333,19271,8,1,12,3,3,1,28,4,3,22,11,14,10,0
+1150,35,1,819,Research & Development,18,5,Life Sciences,1621,2,1,48,4,2,Research Scientist,1,2,5208,26312,1,0,11,3,4,0,16,2,3,16,15,1,10,0
+1369,28,1,1475,Sales,13,2,Marketing,1933,4,0,84,3,2,Sales Executive,3,1,9854,23352,3,1,11,3,4,0,6,0,3,2,0,2,2,1
+470,24,2,535,Sales,24,3,Medical,632,4,1,38,3,1,Sales Representative,4,2,2400,5530,0,0,13,3,3,2,3,3,3,2,2,2,1,0
+282,29,2,442,Sales,2,2,Life Sciences,388,2,1,44,3,2,Sales Executive,4,1,4554,20260,1,0,18,3,1,0,10,3,2,10,7,0,9,0
+11,29,1,153,Research & Development,15,2,Life Sciences,15,4,0,49,2,2,Laboratory Technician,3,1,4193,12682,0,1,12,3,4,0,10,3,3,9,5,0,8,0
+1219,29,1,1082,Research & Development,9,4,Medical,1709,4,0,43,3,1,Laboratory Technician,3,2,2974,25412,9,0,17,3,3,1,9,2,3,5,3,1,2,0
+820,35,2,1182,Sales,11,2,Marketing,1137,4,1,54,3,2,Sales Executive,4,1,4968,18500,1,0,11,3,4,1,5,3,3,5,2,0,2,0
+1276,37,1,589,Sales,9,2,Marketing,1787,2,1,46,2,2,Sales Executive,2,2,4189,8800,1,0,14,3,1,2,5,2,3,5,2,0,3,0
+1370,47,0,1169,Research & Development,14,4,Technical Degree,1934,3,1,64,3,2,Research Scientist,2,2,5467,2125,8,0,18,3,3,1,16,4,4,8,7,1,7,0
+1048,34,1,1326,Sales,3,3,Other,1478,4,1,81,1,2,Sales Executive,1,1,4759,15891,3,0,18,3,4,0,15,2,3,13,9,3,12,0
+981,35,2,662,Sales,18,4,Marketing,1380,4,0,67,3,2,Sales Executive,3,2,4614,23288,0,1,18,3,3,1,5,0,2,4,2,3,2,1
+850,32,0,862,Sales,2,1,Life Sciences,1190,3,0,76,3,1,Sales Representative,1,1,2827,14947,1,0,12,3,3,3,1,3,3,1,0,0,0,0
+1130,35,1,750,Research & Development,28,3,Life Sciences,1596,2,1,46,4,2,Laboratory Technician,3,2,3407,25348,1,0,17,3,4,2,10,3,2,10,9,6,8,0
+667,41,1,1085,Research & Development,2,4,Life Sciences,927,2,0,57,1,1,Laboratory Technician,4,1,2778,17725,4,1,13,3,3,1,10,1,2,7,7,1,0,1
+1384,34,1,937,Sales,1,3,Marketing,1950,1,1,32,3,3,Sales Executive,4,1,9888,6770,1,0,21,4,1,0,14,3,2,14,8,2,1,0
+892,19,0,504,Research & Development,10,3,Medical,1248,1,0,96,2,1,Research Scientist,2,1,1859,6148,1,1,25,4,2,0,1,2,4,1,1,0,0,1
+760,53,2,124,Sales,2,3,Marketing,1050,3,0,38,2,3,Sales Executive,2,2,7525,23537,2,0,12,3,1,1,30,2,3,15,7,6,12,0
+544,47,2,217,Sales,3,3,Medical,746,4,0,49,3,4,Sales Executive,3,1,13770,10225,9,1,12,3,4,2,28,2,2,22,2,11,13,0
+632,42,2,1271,Research & Development,2,1,Medical,875,2,1,35,3,1,Research Scientist,4,1,2515,9068,5,1,14,3,4,0,8,2,3,2,1,2,2,0
+1413,25,1,977,Research & Development,2,1,Other,1992,4,1,57,3,1,Laboratory Technician,3,1,3977,7298,6,1,19,3,3,1,7,2,2,2,2,0,2,0
+1347,36,2,1213,Human Resources,2,1,Human Resources,1890,2,1,94,2,2,Human Resources,4,1,3886,4223,1,0,21,4,4,0,10,2,2,10,1,0,8,0
+357,21,2,756,Sales,1,1,Technical Degree,478,1,0,99,2,1,Sales Representative,2,1,2174,9150,1,1,11,3,3,0,3,3,3,3,2,1,2,1
+724,24,1,1206,Research & Development,17,1,Medical,1009,4,0,41,2,2,Manufacturing Director,3,1,4377,24117,1,0,15,3,2,2,5,6,3,4,2,3,2,0
+1461,50,1,410,Sales,28,3,Marketing,2055,4,1,39,2,3,Sales Executive,1,1,10854,16586,4,1,13,3,2,1,20,3,3,3,2,2,0,1
+1284,39,1,1253,Research & Development,10,1,Medical,1800,3,1,65,3,3,Research Director,3,1,13464,7914,7,0,21,4,3,0,9,3,3,4,3,2,2,0
+392,54,1,821,Research & Development,5,2,Medical,522,1,1,86,3,5,Research Director,1,2,19406,8509,4,0,11,3,3,1,24,4,2,4,2,1,2,0
+284,26,2,496,Research & Development,11,2,Medical,390,1,1,60,3,2,Healthcare Representative,1,2,4741,22722,1,1,13,3,3,1,5,3,3,5,3,3,3,0
+1235,46,1,1277,Sales,2,3,Life Sciences,1732,3,1,74,3,3,Sales Executive,4,1,10368,5596,4,1,12,3,2,1,13,5,2,10,6,0,3,0
+909,19,1,265,Research & Development,25,3,Life Sciences,1269,2,0,57,4,1,Research Scientist,4,1,2994,21221,1,1,12,3,4,0,1,2,3,1,0,0,1,0
+153,45,1,194,Research & Development,9,3,Life Sciences,206,2,1,60,3,2,Laboratory Technician,2,1,2348,10901,8,0,18,3,3,1,20,2,1,17,9,0,15,0
+954,42,0,495,Research & Development,2,1,Life Sciences,1334,3,1,37,3,4,Manager,3,2,17861,26582,0,1,13,3,4,0,21,3,2,20,8,2,10,0
+1192,49,1,464,Research & Development,16,3,Medical,1674,4,0,74,3,1,Laboratory Technician,1,1,2587,24941,4,1,16,3,2,1,17,2,2,2,2,2,2,0
+497,44,1,1315,Research & Development,3,4,Other,671,4,1,35,3,5,Manager,4,2,19513,9358,4,1,12,3,1,1,26,2,4,2,2,0,1,0
+871,24,1,984,Research & Development,17,2,Life Sciences,1219,4,0,97,3,1,Laboratory Technician,2,2,2210,3372,1,0,13,3,1,1,1,3,1,1,0,0,0,1
+774,55,0,444,Research & Development,2,1,Medical,1074,3,1,40,2,4,Manager,1,1,16756,17323,7,0,15,3,2,0,31,3,4,9,7,6,2,0
+1113,32,0,1200,Research & Development,1,4,Technical Degree,1574,4,1,62,3,2,Research Scientist,1,2,4087,25174,4,0,14,3,2,1,9,3,2,6,5,1,2,0
+898,43,1,920,Research & Development,3,3,Life Sciences,1255,3,1,96,1,5,Research Director,4,2,19740,18625,3,0,14,3,2,1,25,2,3,8,7,0,7,0
+1003,25,1,949,Research & Development,1,3,Technical Degree,1415,1,1,81,3,1,Laboratory Technician,4,2,3229,4910,4,0,11,3,2,1,7,2,2,3,2,0,2,0
+51,28,1,1434,Research & Development,5,4,Technical Degree,65,3,1,50,3,1,Laboratory Technician,3,1,3441,11179,1,1,13,3,3,0,2,3,2,2,2,2,2,1
+890,54,2,966,Research & Development,1,4,Life Sciences,1245,4,0,53,3,3,Manufacturing Director,3,1,10502,9659,7,0,17,3,1,1,33,2,1,5,4,1,4,0
+425,50,1,1099,Research & Development,29,4,Life Sciences,569,2,1,88,2,4,Manager,3,2,17046,9314,0,0,15,3,2,1,28,2,3,27,10,15,7,0
+374,28,1,304,Sales,9,4,Life Sciences,498,2,1,92,3,2,Sales Executive,4,1,5253,20750,1,0,16,3,4,0,7,1,3,7,5,0,7,0
+1010,55,1,1136,Research & Development,1,4,Medical,1424,2,1,81,4,4,Research Director,4,1,14732,12414,2,0,13,3,4,2,31,4,4,7,7,0,0,0
+63,59,1,1435,Sales,25,3,Life Sciences,81,1,0,99,3,3,Sales Executive,1,1,7637,2354,7,0,11,3,4,0,28,3,2,21,16,7,9,0
+428,47,1,983,Research & Development,2,2,Medical,574,1,0,65,3,2,Manufacturing Director,4,1,5070,7389,5,0,13,3,3,3,20,2,3,5,0,0,4,0
+644,31,1,1222,Research & Development,11,4,Life Sciences,895,4,1,48,3,1,Research Scientist,4,2,2356,14871,3,1,19,3,2,1,8,2,3,6,4,0,2,0
+834,34,1,1400,Sales,9,1,Life Sciences,1163,2,0,70,3,2,Sales Executive,3,2,5714,5829,1,0,20,4,1,0,6,3,2,6,5,1,3,0
+1167,35,1,763,Sales,15,2,Medical,1645,1,1,59,1,2,Sales Executive,4,1,5440,22098,6,1,14,3,4,2,7,2,2,2,2,2,2,1
+603,45,1,252,Research & Development,2,3,Life Sciences,834,2,0,95,2,1,Research Scientist,3,1,2274,6153,1,0,14,3,4,0,1,3,3,1,0,0,0,0
+422,19,1,489,Human Resources,2,2,Technical Degree,566,1,1,52,2,1,Human Resources,4,1,2564,18437,1,0,12,3,3,0,1,3,4,1,0,0,0,1
+637,32,0,300,Research & Development,1,3,Life Sciences,882,4,1,61,3,1,Laboratory Technician,4,1,2314,9148,0,0,12,3,2,1,4,2,3,3,0,0,2,0
+439,31,2,534,Research & Development,20,3,Life Sciences,587,1,1,66,3,3,Healthcare Representative,3,2,9824,22908,3,0,12,3,1,0,12,2,3,1,0,0,0,1
+1389,31,2,1125,Research & Development,1,3,Life Sciences,1956,4,1,48,1,2,Research Scientist,1,2,5003,5771,1,0,21,4,2,0,10,6,3,10,8,8,7,0
+1424,35,1,1395,Research & Development,9,4,Medical,2008,2,1,48,3,2,Research Scientist,3,1,5098,18698,1,0,19,3,2,0,10,5,3,10,7,0,8,0
+124,31,1,249,Sales,6,4,Life Sciences,163,2,1,76,1,2,Sales Executive,3,2,6172,20739,4,1,18,3,2,0,12,3,2,7,7,7,7,1
+457,18,2,1306,Sales,5,3,Marketing,614,2,1,69,3,1,Sales Representative,2,1,1878,8059,1,1,14,3,4,0,0,3,3,0,0,0,0,1
+382,26,2,575,Research & Development,3,1,Technical Degree,510,3,1,73,3,1,Research Scientist,1,1,3102,6582,0,0,22,4,3,0,7,2,3,6,4,0,4,1
+1132,40,1,118,Sales,14,2,Life Sciences,1598,4,0,84,3,2,Sales Executive,1,2,4639,11262,1,0,15,3,3,1,5,2,3,5,4,1,2,0
+1261,38,1,833,Research & Development,18,3,Medical,1766,2,1,60,1,2,Healthcare Representative,4,2,5811,24539,3,1,16,3,3,1,15,2,3,1,0,1,0,0
+1122,29,1,1370,Research & Development,3,1,Medical,1586,2,1,87,3,1,Laboratory Technician,1,1,4723,16213,1,1,18,3,4,0,10,3,3,10,9,1,5,0
+344,35,1,1296,Research & Development,5,4,Technical Degree,464,3,1,62,3,3,Manufacturing Director,2,1,8095,18264,0,0,13,3,4,0,17,5,3,16,6,0,13,0
+1282,33,1,867,Research & Development,8,4,Life Sciences,1798,4,1,90,4,1,Research Scientist,1,2,3143,6076,6,0,19,3,2,1,14,1,3,10,8,7,6,0
+1466,39,1,613,Research & Development,6,1,Medical,2062,4,1,42,2,3,Healthcare Representative,1,2,9991,21457,4,0,15,3,1,1,9,5,3,7,7,1,7,0
+1294,41,1,447,Research & Development,5,3,Life Sciences,1814,2,1,85,4,2,Healthcare Representative,2,1,6870,15530,3,0,12,3,1,0,11,3,1,3,2,1,2,0
+841,24,1,477,Research & Development,24,3,Medical,1173,4,1,49,3,1,Laboratory Technician,2,1,3597,6409,8,0,22,4,4,0,6,2,3,4,3,1,2,0
+669,39,1,1122,Research & Development,6,3,Medical,932,4,1,70,3,1,Laboratory Technician,1,2,2404,4303,7,1,21,4,4,0,8,2,1,2,2,2,2,1
+1447,36,0,301,Sales,15,4,Marketing,2036,4,1,88,1,2,Sales Executive,4,1,5406,10436,1,0,24,4,1,1,15,4,2,15,12,11,11,0
+1317,27,2,1297,Research & Development,5,2,Life Sciences,1850,4,0,53,3,1,Laboratory Technician,4,1,2379,19826,0,1,14,3,3,0,6,3,2,5,4,0,2,0
+738,39,1,466,Research & Development,1,1,Life Sciences,1026,4,0,65,2,4,Manufacturing Director,4,2,12742,7060,1,0,16,3,3,1,21,3,3,21,6,11,8,0
+315,43,2,185,Research & Development,10,4,Life Sciences,430,3,0,33,3,1,Laboratory Technician,4,1,2455,10675,0,0,19,3,1,0,9,5,3,8,7,1,7,0
+569,36,0,1434,Sales,8,4,Life Sciences,789,1,1,76,2,3,Sales Executive,1,1,7587,14229,1,0,15,3,2,0,10,1,3,10,7,0,9,0
+1254,49,1,1313,Sales,11,4,Marketing,1757,4,0,80,3,2,Sales Executive,4,1,4507,8191,3,0,12,3,3,0,8,1,4,5,1,0,4,0
+837,40,2,593,Research & Development,9,4,Medical,1166,2,0,88,3,3,Research Director,3,1,13499,13782,9,0,17,3,3,0,20,3,2,18,7,2,13,0
+1361,26,2,1096,Research & Development,6,3,Other,1918,3,1,61,4,1,Laboratory Technician,4,2,2544,7102,0,0,18,3,1,1,8,3,3,7,7,7,7,0
+591,33,1,118,Sales,16,3,Marketing,819,1,0,69,3,2,Sales Executive,1,1,5324,26507,5,0,15,3,3,0,6,3,3,3,2,0,2,1
+531,32,1,1018,Research & Development,3,2,Life Sciences,727,3,0,39,3,3,Research Director,4,1,11159,19373,3,0,15,3,4,0,10,6,3,7,7,7,7,0
+510,54,1,397,Human Resources,19,4,Medical,698,3,1,88,3,3,Human Resources,2,2,10725,6729,2,0,15,3,3,1,16,1,4,9,7,7,1,0
+1348,40,1,1137,Research & Development,1,4,Life Sciences,1892,1,1,98,3,4,Manager,1,1,16823,18991,2,0,11,3,1,1,22,3,3,19,7,11,16,0
+1049,30,1,1358,Sales,16,1,Life Sciences,1479,4,1,96,3,2,Sales Executive,3,2,5301,2939,8,0,15,3,3,2,4,2,2,2,1,2,2,0
