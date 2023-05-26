@@ -1,0 +1,100 @@
+Data_drift_within_train_dataset:
+  Age:
+    pvalues: 0.9661914731614526
+    same_distribution: true
+  Attrition:
+    pvalues: 1.0
+    same_distribution: true
+  BusinessTravel:
+    pvalues: 1.0
+    same_distribution: true
+  DailyRate:
+    pvalues: 0.8305724007141353
+    same_distribution: true
+  Department:
+    pvalues: 0.999999999994621
+    same_distribution: true
+  DistanceFromHome:
+    pvalues: 0.5878544109686683
+    same_distribution: true
+  Education:
+    pvalues: 0.9592394499135253
+    same_distribution: true
+  EducationField:
+    pvalues: 0.997144386638978
+    same_distribution: true
+  EmployeeNumber:
+    pvalues: 0.9861880783159015
+    same_distribution: true
+  EnvironmentSatisfaction:
+    pvalues: 0.8603058282840796
+    same_distribution: true
+  Gender:
+    pvalues: 0.9999999944366291
+    same_distribution: true
+  HourlyRate:
+    pvalues: 0.5353368429576189
+    same_distribution: true
+  JobInvolvement:
+    pvalues: 0.9998620775254246
+    same_distribution: true
+  JobLevel:
+    pvalues: 0.9999947120888938
+    same_distribution: true
+  JobRole:
+    pvalues: 0.26164824200920334
+    same_distribution: true
+  JobSatisfaction:
+    pvalues: 0.9942131890937795
+    same_distribution: true
+  MaritalStatus:
+    pvalues: 0.9999999999999938
+    same_distribution: true
+  MonthlyIncome:
+    pvalues: 0.9776849901172897
+    same_distribution: true
+  MonthlyRate:
+    pvalues: 0.9592394499135253
+    same_distribution: true
+  NumCompaniesWorked:
+    pvalues: 0.997144386638978
+    same_distribution: true
+  OverTime:
+    pvalues: 1.0
+    same_distribution: true
+  PercentSalaryHike:
+    pvalues: 0.2729877391471205
+    same_distribution: true
+  PerformanceRating:
+    pvalues: 0.9998620775254246
+    same_distribution: true
+  RelationshipSatisfaction:
+    pvalues: 0.9776849901172897
+    same_distribution: true
+  StockOptionLevel:
+    pvalues: 0.9999981706003414
+    same_distribution: true
+  TotalWorkingYears:
+    pvalues: 0.9120356275317851
+    same_distribution: true
+  TrainingTimesLastYear:
+    pvalues: 0.9861880783159015
+    same_distribution: true
+  WorkLifeBalance:
+    pvalues: 0.9995423793889207
+    same_distribution: true
+  YearsAtCompany:
+    pvalues: 0.9995423793889207
+    same_distribution: true
+  YearsInCurrentRole:
+    pvalues: 0.997144386638978
+    same_distribution: true
+  YearsSinceLastPromotion:
+    pvalues: 0.9822890272717735
+    same_distribution: true
+  YearsWithCurrManager:
+    pvalues: 0.9231142220529224
+    same_distribution: true
+Missing_value_within_base_file: []
+Missing_value_within_test_file: []
+Missing_value_within_train_file: []

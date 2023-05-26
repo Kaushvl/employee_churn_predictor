@@ -13,7 +13,7 @@ MODEL_FILE_NAME = 'model.pkl'
 class TrainingPipelineConfig:
     def __init__(self):
         try:
-            self.artifact_dir = os.path.join(os.getcwd(),"artifact",f"{datetime.now().strftime('%y%m%d__%H%M%S')}")
+            self.artifact_dir = os.path.join(os.getcwd(),"artifact",f"{datetime.now().strftime('%y%m%d%H%M%S')}")
         except Exception as e:
             raise CustomException(e, sys)
 
@@ -79,14 +79,25 @@ class ModelEvaluationConfig:
             raise CustomException(e, sys)
         
 
+# class ModelPusherConfig:
+#     def __init__(self,training_pipeline_config:TrainingPipelineConfig):
+#         try:
+#             self.model_pusher_dir = os.path.join(training_pipeline_config.artifact_dir,"model_pusher_file")
+#             self.saved_model_dir = os.path.join("saved_models")
+#             self.pusher_model_dir = os.path.join(self.model_pusher_dir,"saved_models")
+#             self.pusher_model_path = os.path.join(self.pusher_model_dir,MODEL_FILE_NAME)
+#             self.pusher_transformer_path = os.path.join(self.pusher_model_dir,TRANSFORM_OBJECT_PATH_NAME)
+#             self.pusher_target_encoder_path = os.path.join(self.pusher_model_dir,TARGET_ENCODER_OBJECT_NAME)
+#         except Exception as e :
+#             raise CustomException(e, sys)
+        
+
 class ModelPusherConfig:
+
     def __init__(self,training_pipeline_config:TrainingPipelineConfig):
-        try:
-            self.model_pusher_dir = os.path.join(training_pipeline_config.artifact_dir,"model_pusher_file")
-            self.saved_model_dir = os.path.join("saved_models")
-            self.pusher_model_dir = os.path.join(self.model_pusher_dir,"saved_models")
-            self.pusher_model_path = os.path.join(self.pusher_model_dir,MODEL_FILE_NAME)
-            self.pusher_transformer_path = os.path.join(self.pusher_model_path,TRANSFORM_OBJECT_PATH_NAME)
-            self.pusher_target_encoder_path = os.path.join(self.pusher_model_dir,TARGET_ENCODER_OBJECT_NAME)
-        except Exception as e :
-            raise CustomException(e, sys)
+        self.model_pusher_dir = os.path.join(training_pipeline_config.artifact_dir , "model_pusher")
+        self.saved_model_dir = os.path.join("saved_models")
+        self.pusher_model_dir = os.path.join(self.model_pusher_dir,"saved_models")
+        self.pusher_model_path = os.path.join(self.pusher_model_dir,MODEL_FILE_NAME)
+        self.pusher_transformer_path = os.path.join(self.pusher_model_dir,TRANSFORM_OBJECT_PATH_NAME)
+        self.pusher_target_encoder_path = os.path.join(self.pusher_model_dir,TARGET_ENCODER_OBJECT_NAME)

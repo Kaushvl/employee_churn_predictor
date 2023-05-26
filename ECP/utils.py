@@ -49,7 +49,7 @@ def load_numpy_array_data(filepath:str)->np.array:
         raise CustomException(e, sys)
     
 
-def save_object(filepath:str,obj:object):
+def save_object(filepath:str,obj:object)->None:
     try:
         os.makedirs(os.path.dirname(filepath),exist_ok=True)
         with open(filepath,'wb') as file_obj:
@@ -63,7 +63,7 @@ def load_object(filepath:str)-> object:
     try:
         if not os.path.exists(filepath):
             raise Exception(f"filepath :{filepath} doesn't exsist ")
-        with open(filepath,'wb') as file_obj:
+        with open(filepath,'rb') as file_obj:
             return dill.load(file_obj)
 
     except Exception as e:
